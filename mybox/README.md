@@ -2,5 +2,6 @@
 
 ## Feature
 - Net
-    - GetLocalIPAndMacAddr
+    - GetLocalIPAndMacAddr()
+    - IsCIDR()
 
